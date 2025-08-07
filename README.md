@@ -17,13 +17,13 @@ This project implements a Convolutional Neural Network (CNN) using the TensorFlo
 
 
 # TOOLS USED
-*Programming Language*: Python
-*Libraries*:
+-Programming Language: Python
+-Libraries:
 -TensorFlow / Keras (Model building)
 -NumPy (Numerical operations)
 -Matplotlib & Seaborn (Visualization)
 -Scikit-learn (Evaluation metrics)
-*Dataset*: CIFAR-10 (built into Keras datasets)
+-Dataset: CIFAR-10 (built into Keras datasets)
 
 # APPLICATIONS
 -Automatically classify X-rays, MRIs, or CT scans to detect diseases such as pneumonia, tumors, or fractures.
