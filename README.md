@@ -38,7 +38,7 @@ This project implements a Convolutional Neural Network (CNN) using the TensorFlo
 # OUTPUT
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/67c5cacf-4a34-4876-938e-52d29a35882f" />
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b71c8a60-da4d-432c-8542-c5ad18f4f9ad" />
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3bef4e2d-a03c-4141-808f-3c709e7a537a" />
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/991d9d55-c518-46a6-8b89-5ec8cdc72411" />
 
